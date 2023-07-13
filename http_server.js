@@ -5,6 +5,7 @@ const fs = require('lowdb/adapters/FileSync');
 const adapter = new fs('db.json');
 const db = low(adapter);
 const cors = require('cors');
+const port = 3000;
 
 // allow cross-origin resource sharing (CORS)
 app.use(cors());
@@ -53,8 +54,8 @@ app.post('/add', function(req, res){
 });
 
 // start server // listening on port 3000
-app.listen(3000, function(){
-    console.log('Running on port 3000!')
+app.listen(process.env.PORT || port, function(){
+    console.log('Running on port' + port)
 });
 
 
