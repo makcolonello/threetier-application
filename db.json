@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Cade Turner",
+      "dob": "1955-3-10",
+      "email": "Cade.Turner@yahoo.com",
+      "username": "Cade_Turner",
+      "password": "7dPR8S765b8Bbvt",
+      "phone": "862.802.6561 x66045",
+      "streetaddress": "267 Stark Fields",
+      "citystatezip": "Zakarystad, AZ 32377",
+      "latitude": "25.9057",
+      "longitude": "-34.8379",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sdidonato/128.jpg"
+    },
+    {
+      "name": "Macie Hackett",
+      "dob": "1979-5-22",
+      "email": "Macie87@yahoo.com",
+      "username": "Macie.Hackett53",
+      "password": "r8Pu3SNjtYKPY_8",
+      "phone": "205-201-5500 x19966",
+      "streetaddress": "4013 Ward Inlet",
+      "citystatezip": "South Triston, PA 76734-0936",
+      "latitude": "-34.9063",
+      "longitude": "-92.7452",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josecarlospsh/128.jpg"
+    },
+    {
+      "name": "Nedra Ratke PhD",
+      "dob": "1989-8-26",
+      "email": "Nedra.Ratke21@hotmail.com",
+      "username": "Nedra56",
+      "password": "dw5oDj6Maxi0OCS",
+      "phone": "425-772-8939 x30149",
+      "streetaddress": "88587 Cristal Land",
+      "citystatezip": "Mohrview, VT 34526-8860",
+      "latitude": "-37.5107",
+      "longitude": "-111.4663",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dreizle/128.jpg"
+    }
+  ]
+}
